@@ -18,3 +18,4 @@ git push
 git pull
 
 Continuing to learn DevOps tools.
+Practiced Git clone and pull commands.
